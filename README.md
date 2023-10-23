@@ -4,7 +4,11 @@ The Weather Forecast App is a user-friendly and informative tool that provides r
 Key Features:
 
 Location-Based Weather: Enter your city or location to get up-to-date weather details.
+
 Weather Icons: A visual representation of weather conditions with icons
+
 Temperature Display: Check the current temperature in Celsius.
+
 Detailed Information: Find out about humidity, wind speed, and more.
+
 User-Friendly: Simple design for easy navigation and quick access to data.
